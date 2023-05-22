@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//sanwofg.github.iocreate-new-account/static/css/main.d13ba81d.css",
+    "main.js": "/http//sanwofg.github.iocreate-new-account/static/js/main.67248fda.js",
+    "index.html": "/http//sanwofg.github.iocreate-new-account/index.html",
+    "main.d13ba81d.css.map": "/http//sanwofg.github.iocreate-new-account/static/css/main.d13ba81d.css.map",
+    "main.67248fda.js.map": "/http//sanwofg.github.iocreate-new-account/static/js/main.67248fda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d13ba81d.css",
+    "static/js/main.67248fda.js"
+  ]
+}
