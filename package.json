@@ -1,6 +1,6 @@
 {
-  "homepage": "http://sanwofg.github.io/create-new-account/",
-  "name": "react1",
+  "homepage": "http://sanwofg.github.io/create-new-account",
+  "name": "create an account",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
